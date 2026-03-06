@@ -85,19 +85,14 @@ Learning:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
+---
+
 ## 📊 GitHub Activity
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fevasquez444&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevasquez444&show_icons=true&theme=github_dark)
 
 ---
 
 ## 💻 Languages Used in My Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fevasquez444&layout=compact&theme=dark)
-
-## 🚀 Goals
-
-- Become a professional Full Stack Developer
-- Build useful tools and real-world software projects
-- Continue learning cybersecurity and pentesting
-- Combine hardware and software knowledge in future projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevasquez444&layout=compact&theme=github_dark)
