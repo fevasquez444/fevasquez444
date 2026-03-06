@@ -59,6 +59,18 @@ Hardware:
 
 ---
 
+---
+
+## 📊 GitHub Activity
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fevasquez444&show_icons=true&theme=dark)
+
+---
+
+## 💻 Languages Used in My Projects
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fevasquez444&layout=compact&theme=dark)
+
 ## 🚀 Goals
 
 - Become a professional Full Stack Developer
