@@ -89,12 +89,20 @@ Learning:
 
 ---
 
-## 📊 GitHub Activity
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fevasquez444&show_icons=true&theme=github_dark)
+## 📊 GitHub Profile
+
+- [View my GitHub repositories](https://github.com/fevasquez444?tab=repositories)
+- [View my contribution activity](https://github.com/fevasquez444)
 
 ---
 
 ## 💻 Languages Used in My Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fevasquez444&layout=compact&theme=github_dark)
+Based on my current public projects:
+
+- Python
+- HTML
+- CSS
+- JavaScript (learning)
